@@ -1,15 +1,13 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=ffffff&text=High%20Qualiteam%20%20&fontSize=100&textBg=false&descSize=20&animation=twinkling&fontAlign=50&fontColor=000000&desc=스키%20예약%20웹사이트%20&descAlignY=85&descAlign=50">
-<p/>
+# ⛷️스키 강습 예약 웹사이트 High Qualiteam
 
-# 😀 프로젝트 소개
+## 😀 프로젝트 소개
 High Qualiteam 사용자가 스키 강습 정보를 손쉽게 찾아보고 예약할 수 있도록 설계된 웹사이트입니다. <br>
 이 프로젝트는 1인 개발로, 기획부터 디자인, 프론트엔드, 백엔드, 배포까지 전 과정을 직접 진행하며 완성한 풀스택 프로젝트입니다.
 
 - 프로젝트 기간: 2025.08.11 ~ 2025.08.29
 - 배포된 사이트 주소 : [High Qualiteam 웹사이트 바로가기](https://qualiteam.co.kr/)
 
-# 💻 주요 기능
+## 💻 주요 기능
 해당 웹사이트는 일반 사용자 페이지와 관리자 페이지로 나뉘어 각 사용자에게 필요한 기능을 제공합니다.<br>
 
 ### 👩‍💼 사용자 기능
@@ -37,7 +35,7 @@ JWT(JSON Web Token) 인증 방식을 도입하여 관리자 전용 API의 보안
 - **인기 태그 목록 기반 탐색**: 다양한 태그를 통해 원하는 스타일을 쉽게 찾아볼 수 있습니다.
 - **마이페이지**: 내가 올린 스타일, 좋아요한 스타일 등 활동 내역과 내 정보를 관리할 수 있습니다.
 
-# ⚙️ 기술 스택
+## ⚙️ 기술 스택
 
 ### backend
 
